@@ -16,5 +16,11 @@
   * Bad patterns
     * MC threat modeling
     * overcomplicating the problem
-    * 
+## Podcast (Cheaters)
 
+* Cheat-developers sell cheats for 40€+ subscription services
+* a lot of infighting. Devs will sell each other out.
+* Game devs act as double agents and buy cheats to fix it.
+* Semi Illegal, mainly due to copyright. Illegal in some asian countries
+* Stream proof (not visible while streaming)
+* Some pros cheat
