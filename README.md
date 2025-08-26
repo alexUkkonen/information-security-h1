@@ -128,3 +128,8 @@ We are unlikely to be targetted for political reasons and haven't made any enemi
 * Staffed security team constantly working on imporving security
 * continious training of staff and clients.
 * Next threat model to be made in 3 months
+
+## Sources
+https://terokarvinen.com/information-security
+https://www.threatmodelingmanifesto.org
+https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
